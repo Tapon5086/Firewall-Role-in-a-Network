@@ -26,6 +26,17 @@ This project focuses on securing a multi-department office network by zoning it 
 
 ---
 
+## 🖼️ Screenshots
+
+Here are some visuals to help you understand the project setup:
+
+- **Network Topology Screenshot:** `Screenshot 2024-12-02 004857.png` shows the configured multi-department network with firewall placements.
+- **Blank Network Diagram:** `Blank diagram.png` can be used as a template to visualize or modify the network zones and firewall layout.
+
+You can open these images using any image viewer or include them in documentation to illustrate the design.
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Cisco Packet Tracer for network simulation and design
@@ -60,4 +71,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Tapon Paul**  
 [GitHub](https://github.com/Tapon5086) • [LinkedIn](https://linkedin.com/in/taponpaul)
 ```
-
